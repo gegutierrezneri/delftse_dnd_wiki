@@ -1,0 +1,2 @@
+- Played by: Rommee
+- Race: Gnome

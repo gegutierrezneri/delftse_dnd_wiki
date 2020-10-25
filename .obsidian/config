@@ -1,0 +1,188 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": false,
+    "word-count": true,
+    "custom-css": true,
+    "starred": true,
+    "daily-notes": true,
+    "slides": true,
+    "audio-recorder": true,
+    "open-with-default-app": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "random-note": true,
+    "zk-prefixer": false,
+    "outline": true,
+    "translucency": false
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "useTab": false,
+  "foldHeading": true,
+  "hotkeys": {
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "ArrowRight"
+      }
+    ],
+    "markdown:toggle-preview": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "Enter"
+      }
+    ],
+    "app:delete-file": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "Delete"
+      }
+    ],
+    "workspace:split-horizontal": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "ArrowDown"
+      }
+    ],
+    "app:open-vault": [
+      {
+        "modifiers": [
+          "Alt",
+          "Mod"
+        ],
+        "key": "ö"
+      }
+    ],
+    "app:go-back": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "ArrowLeft"
+      }
+    ],
+    "app:go-forward": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "ArrowRight"
+      }
+    ],
+    "app:toggle-left-sidebar": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "e"
+      }
+    ],
+    "app:toggle-right-sidebar": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "E"
+      }
+    ],
+    "daily-notes": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "j"
+      }
+    ],
+    "command-palette:open": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "P"
+      }
+    ],
+    "switcher:open": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "p"
+      }
+    ],
+    "editor:swap-line-up": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "ArrowUp"
+      }
+    ],
+    "editor:swap-line-down": [
+      {
+        "modifiers": [
+          "Alt"
+        ],
+        "key": "ArrowDown"
+      }
+    ],
+    "open-with-default-app:open": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "o"
+      }
+    ],
+    "graph:open": [],
+    "graph:open-local": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "g"
+      }
+    ],
+    "editor:toggle-completed": [],
+    "editor:toggle-checklist-status": []
+  },
+  "lastOpenRightSidedockTab": "Tags",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "attachments",
+  "sideDockWidth": {
+    "left": 392,
+    "right": 331
+  },
+  "newFileLocation": "current",
+  "defaultViewMode": "preview",
+  "newFileFolderPath": "wiki",
+  "fileSortOrder": "alphabetical",
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Learnings"
+  ],
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showLineNumber": false,
+  "enabledPlugins": []
+}

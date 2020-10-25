@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "df8eedb026fcb233",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b5ee91b4825795",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "campaings/Session_201025.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7357023d46881f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a373867ba5a9d071",
+        "type": "tabs",
+        "dimension": 44.650864830237026,
+        "children": [
+          {
+            "id": "ff8dff340e54229e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7de4027a08572bc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "65f585470c9af616",
+        "type": "tabs",
+        "dimension": 55.349135169762974,
+        "children": [
+          {
+            "id": "519fe2e931c3ab9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "spoiler"
+              }
+            }
+          },
+          {
+            "id": "e011bd072f5f7efb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320
+  },
+  "right": {
+    "id": "88e65889f92df737",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f6bd8109cd4f00a",
+        "type": "tabs",
+        "dimension": 42.83185840707965,
+        "children": [
+          {
+            "id": "e84349f38cd31c2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "campaings/Session_201025.md"
+              }
+            }
+          },
+          {
+            "id": "7f8bfd9d79d37664",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "campaings/Session_201025.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f9158227d9483688",
+        "type": "tabs",
+        "dimension": 57.16814159292035,
+        "children": [
+          {
+            "id": "cea55898eae9ae9e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "campaings/Session_201025.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5873334341513576
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.33331298828125
+  },
+  "lastOpenFiles": [
+    "campaings/Session_201025.md",
+    "campaings/Session_200517.md",
+    "characters/Vosha.md",
+    "campaings/Session-201025.md",
+    "campaings/Session-200913.pdf",
+    "campaings/Session-200719.md",
+    "campaings/Session-200523.md",
+    "campaings/Session_200419.md",
+    "campaings/2020Q2-delfste-dnd.md",
+    "characters/Amryn.md"
+  ]
+}

@@ -1,0 +1,3 @@
+- Lord of the area of the East.
+- [[Forestera]] is in the East
+- [[Elidee]] is from the forests of Forestera

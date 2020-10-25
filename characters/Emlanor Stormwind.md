@@ -1,0 +1,4 @@
+- Half elf
+- Diplomat
+- Former acquaintance of [[Amryn]]
+- Knows [[Coraline]]]

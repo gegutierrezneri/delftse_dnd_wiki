@@ -1,0 +1,9 @@
+- Page: https://www.dndbeyond.com/characters/35580400
+- Cleric
+- Loyal to the King
+- Saw [[Norman]] stab Vosha's father
+    - #spoiler It appears that Enrique inadvertedly made a change to his backstory which is connected to Norman.
+- Squire to [[Sir Evan]]
+- Saw Norman stab his dad
+    - His dad was betraying the King, so is seen as justified.
+- Former courier
